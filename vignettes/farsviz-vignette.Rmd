@@ -4,10 +4,14 @@ author: "Orkan"
 date: "2018-09-15"
 output: rmarkdown::html_vignette
 vignette: >
-
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
 ---
 
 This package has several functions to read, summarize and visualize US FARS data.
+
+## Functions
 
 Please download the data files and place them in the working directory of your code. 
 
