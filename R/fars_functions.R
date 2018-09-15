@@ -47,6 +47,7 @@ fars_read <- function(filename) {
 #' \dontrun{
 #' makefilename(2017)
 #' }
+#' @export
 
 
 make_filename <- function(year) {
@@ -78,6 +79,7 @@ make_filename <- function(year) {
 #' }
 #'
 #' @importFrom dplyr %>% mutate select
+#' @export
 #'
 
 fars_read_years <- function(years) {
