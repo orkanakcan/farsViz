@@ -1,6 +1,6 @@
 library(testthat)
-library(farsviz)
+library(farsViz)
 
-test_check("farsviz")
+test_check("farsViz")
 
 
