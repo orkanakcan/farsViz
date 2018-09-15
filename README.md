@@ -1,4 +1,4 @@
-[![Travis-CI Build Status](https://travis-ci.org/orkanakcan/farsViz.svg?branch=master)](https://travis-ci.org/orkanakcan/farsViz)
+[![Travis-CI Build Status](https://travis-ci.com/orkanakcan/farsViz.svg?branch=master)](https://travis-ci.com/orkanakcan/farsViz)
 
 Module 3 - Building R Packages
 =============================================
